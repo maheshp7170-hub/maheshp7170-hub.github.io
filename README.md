@@ -1,3 +1,4 @@
+![A short description of the image](ai_assistant_business_workflow.png)
 # **Why Every Entrepreneur Should Consider an AI Chatbot for Business in 2026**
 
 Running a business often means answering the same questions dozens of times: What are your prices? When will my order arrive? How can I book an appointment? Do you offer refunds?
